@@ -1,5 +1,6 @@
 # arduino Annyoing Alarm Clock
-https://www.instagram.com/p/CdaVRpSOylp/
+# https://www.instagram.com/p/CdaVRpSOylp/     
+
 Project information 
 Sometimes we overslept because we don't hear our alarm in the morning. If this situation repeats, we may not be able to do what we planned or have other negative effects. Conventional alarm clock wakes people up with sound. However, sometimes we did not hear the sound and keep sleeping. We planned this project to solve this situation. Our project is to have the webcam recognize the face when the alarm goes off and spray water on it. This will help people who have difficulty waking up in the morning. Even if someone who does not hear the alarm, it will wake you up with enough stimulation to spray water.
 Progress by development schedule 
