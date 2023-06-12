@@ -1,4 +1,4 @@
-# arduino Annyoing Alarm Clock
+# Annyoing Alarm Clock
 # https://www.instagram.com/p/CdaVRpSOylp/      <-------VIDEO
 
 
